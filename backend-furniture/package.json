@@ -1,0 +1,28 @@
+{
+  "name": "backend-furniture",
+  "version": "1.0.0",
+  "description": "Backend for furniture project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Putra Prima Arhandi",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "bookshelf": "^0.13.0",
+    "express": "^4.16.3",
+    "knex": "^0.13.0",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
